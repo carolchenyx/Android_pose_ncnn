@@ -1,0 +1,65 @@
+{
+  "stringTable": {
+    "0": "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi24 --gcc-toolchain=/home/hkuit104/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/hkuit104/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/sysroot -Dyolov5_EXPORTS -I/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/ncnnvulkan/include -I/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/opencv/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -fopenmp -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/home/hkuit104/Android/Sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/home/hkuit104/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/hkuit104/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/home/hkuit104/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5-Debug-armeabi-v7a": {
+      "buildCommand": "/home/hkuit104/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/.cxx/cmake/debug/armeabi-v7a\" yolov5",
+      "buildType": "debug",
+      "toolchain": "2374015264",
+      "abi": "armeabi-v7a",
+      "artifactName": "yolov5",
+      "files": [
+        {
+          "src": "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/SimplePose.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/YoloV5.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/YoloV5CustomLayer.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/jni_interface.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libyolov5.so",
+      "runtimeFiles": [
+        "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/opencv/armeabi-v7a/libopencv_java4.so",
+        "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/ncnnvulkan/armeabi-v7a/libncnn.a",
+        "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/ncnnvulkan/armeabi-v7a/libglslang.a",
+        "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/ncnnvulkan/armeabi-v7a/libSPIRV.a",
+        "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/ncnnvulkan/armeabi-v7a/libOGLCompiler.a",
+        "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/ncnnvulkan/armeabi-v7a/libOSDependent.a"
+      ]
+    }
+  },
+  "toolchains": {
+    "2374015264": {
+      "cppCompilerExecutable": "/home/hkuit104/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

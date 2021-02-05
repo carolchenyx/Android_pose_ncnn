@@ -1,0 +1,7 @@
+Executable : /home/hkuit104/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/.cxx/cmake/debug/arm64-v8a
+yolov5
+jvmArgs : 
+

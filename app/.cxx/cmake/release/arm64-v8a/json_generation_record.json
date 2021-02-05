@@ -1,0 +1,32 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 26 min SDK version: arm64-v8a",
+    "file": "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027/home/hkuit104/Android/Sdk/cmake/3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/.cxx/cmake/release/arm64-v8a/android_gradle_build.json\u0027 was up-to-date",
+    "file": "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/CMakeLists.txt",
+    "tag": "release|arm64-v8a"
+  }
+]

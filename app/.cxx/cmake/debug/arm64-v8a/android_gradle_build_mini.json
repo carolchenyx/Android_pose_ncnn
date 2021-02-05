@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/hkuit104/Android/Sdk/ndk/21.0.6113669/build/cmake/platforms.cmake",
+    "/home/hkuit104/Android/Sdk/ndk/21.0.6113669/build/cmake/android.toolchain.cmake",
+    "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/home/hkuit104/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/.cxx/cmake/debug/arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "/home/hkuit104/Android/Sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/.cxx/cmake/debug/arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "yolov5-Debug-arm64-v8a": {
+      "artifactName": "yolov5",
+      "buildCommand": "/home/hkuit104/Android/Sdk/cmake/3.10.2.4988404/bin/ninja -C \"/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/.cxx/cmake/debug/arm64-v8a\" yolov5",
+      "abi": "arm64-v8a",
+      "output": "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5.so",
+      "runtimeFiles": [
+        "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/opencv/arm64-v8a/libopencv_java4.so",
+        "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/ncnnvulkan/arm64-v8a/libncnn.a",
+        "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/ncnnvulkan/arm64-v8a/libglslang.a",
+        "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/ncnnvulkan/arm64-v8a/libSPIRV.a",
+        "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/ncnnvulkan/arm64-v8a/libOGLCompiler.a",
+        "/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/ncnnvulkan/arm64-v8a/libOSDependent.a"
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+# ninja log v5
+1	1975	1611547341	CMakeFiles/yolov5.dir/YoloV5.cpp.o	ecebde1bd60f925a
+1	2032	1611547341	CMakeFiles/yolov5.dir/YoloV5CustomLayer.cpp.o	16de135cbf58e0d4
+5	2473	1611547341	CMakeFiles/yolov5.dir/jni_interface.cpp.o	430bb3c38f0b9e00
+1	2658	1611547341	CMakeFiles/yolov5.dir/SimplePose.cpp.o	3c68406be2ffc726
+0	3147	1611547342	CMakeFiles/yolov5.dir/NanoPose.cpp.o	a68c666ad42f0a9b
+3147	3665	1611547342	/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5.so	7da099a31dd9347c
+38	3214	1611551347	CMakeFiles/yolov5.dir/jni_interface.cpp.o	430bb3c38f0b9e00
+38	3335	1611551347	CMakeFiles/yolov5.dir/NanoPose.cpp.o	a68c666ad42f0a9b
+3335	5615	1611551349	/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5.so	7da099a31dd9347c
+11	3128	1612257884	CMakeFiles/yolov5.dir/SimplePose.cpp.o	3c68406be2ffc726
+3128	5307	1612257887	/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5.so	7da099a31dd9347c
+1	774	1612258054	CMakeFiles/yolov5.dir/jni_interface.cpp.o	430bb3c38f0b9e00
+774	1112	1612258055	/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5.so	7da099a31dd9347c
+9	4108	1612258409	CMakeFiles/yolov5.dir/jni_interface.cpp.o	430bb3c38f0b9e00
+9	4218	1612258409	CMakeFiles/yolov5.dir/NanoPose.cpp.o	a68c666ad42f0a9b
+4218	5763	1612258411	/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5.so	7da099a31dd9347c
+11	2274	1612318763	CMakeFiles/yolov5.dir/NanoPose.cpp.o	a68c666ad42f0a9b
+2274	4926	1612318766	/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5.so	7da099a31dd9347c
+0	1047	1612319555	CMakeFiles/yolov5.dir/NanoPose.cpp.o	a68c666ad42f0a9b
+1047	1355	1612319556	/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5.so	7da099a31dd9347c
+0	1214	1612319820	CMakeFiles/yolov5.dir/NanoPose.cpp.o	a68c666ad42f0a9b
+1214	1531	1612319820	/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5.so	7da099a31dd9347c

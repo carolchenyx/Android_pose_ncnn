@@ -1,0 +1,5 @@
+include ':yogasdk'
+include ':instance'
+include ':posenet'
+include ':app'
+rootProject.name='YOLOv5'

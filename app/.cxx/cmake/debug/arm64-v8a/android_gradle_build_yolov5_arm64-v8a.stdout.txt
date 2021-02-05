@@ -1,0 +1,8 @@
+ninja: Entering directory `/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/.cxx/cmake/debug/arm64-v8a'
+[1/2] Building CXX object CMakeFiles/yolov5.dir/NanoPose.cpp.o
+In file included from /media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/NanoPose.cpp:1:
+/media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/src/main/cpp/NanoPose.h:17:1: warning: typedef requires a name [-Wmissing-declarations]
+typedef struct HeadInfo {
+^~~~~~~
+1 warning generated.
+[2/2] Linking CXX shared library /media/hkuit104/24d4ed16-ee67-4121-8359-66a09cede5e7/Android/Pose_demo_android-ncnn-/android_YOLOV5_NCNN/android_YOLOV5_NCNN/app/build/intermediates/cmake/debug/obj/arm64-v8a/libyolov5.so
